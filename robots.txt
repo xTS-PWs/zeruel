@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /components/
+Disallow: /js/
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /config/
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
+
+Sitemap: https://zeruel.org/sitemap.xml
