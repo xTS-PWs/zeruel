@@ -279,6 +279,20 @@ footer {
     margin-top: 3rem;
 }
 
+/* Error Page */
+.error-section {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 4rem 1rem;
+}
+
+.error-actions {
+    margin-top: 2rem;
+}
+
 /* Media Queries */
 @media (min-width: 768px) {
     :root {
